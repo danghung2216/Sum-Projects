@@ -1,0 +1,23 @@
+table {
+  font-family: arial, sans-serif;
+  /* border-collapse: collapse; */
+  width: 100%;
+}
+
+td,
+th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+  overflow: auto;
+  /* height: auto; */
+}
+.add-user input {
+  padding: 3px;
+  border: 2px solid #ccc;
+}
+.add-user button {
+  border: 2px solid #ccc;
+  border-radius: 5px;
+  padding: 0 3px;
+}
